@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=462418&assignment_repo_type=GroupAssignmentRepo)
 # Up
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo do projeto Up é ajudar o usuário, que enfrenta problemas com a procrastinação, a desenvolver uma agenda pessoal a partir das atividades que ele informar. Tais atividades serão catecorizadas por horário, tempo médio de duração e grau de importância, para que a agenda seja formulada da melhor para o usuário. Caso o usuário sinta a necessidade de um acompanhamento profissional, o projeto Up também irá fornecer contatos de psicólogos que atendem na cidade de Belo Horizonte. 
 
 ## Alunos integrantes da equipe
 
