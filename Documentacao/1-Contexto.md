@@ -31,13 +31,13 @@
 > 
 > Principais tópicos:
 > 
-> 1. Fornecer uma agenda da semana com todas as atividades informadas.
+> * Fornecer uma agenda da semana com todas as atividades informadas.
 > 
-> 2. Implementar intervalos de descanso entre as atividades informadas. 
+> * Implementar intervalos de descanso entre as atividades informadas. 
 > 
-> 3. Fornecer dicas para uma melhor execução de estudos e um dia mais produtivo.
+> * Fornecer dicas para uma melhor execução de estudos e um dia mais produtivo.
 > 
-> 4. Permitir uma flexibilidade da agenda com o ajuste do cronograma do dia ou da semana.
+> * Permitir uma flexibilidade da agenda com o ajuste do cronograma do dia ou da semana.
 > 
 
 ## Justificativa
