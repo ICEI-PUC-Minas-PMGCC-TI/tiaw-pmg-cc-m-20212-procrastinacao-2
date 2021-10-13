@@ -1,61 +1,53 @@
 # Introdução
+> O presente trabalho visa informar, conscientizar e dar uma solução referente à procrastinação, buscando avaliar as suas possíveis consequências, como doenças e síndromes 
+> decorrentes e ampliadoras da falta de rotina. A ideia surgiu a partir de uma discussão sobre os problemas atuais da sociedade durante uma aula de Trabalho Interdisciplinar: 
+> Aplicações Web, disciplina do primeiro período do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais (PUC – Minas).
+>
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> A procrastinação é um mal crescente que assola cada vez mais a sociedade e pode ser definida pela ação de postergar ou atrasar algo, como uma tarefa, compromisso ou atividade. 
+> Isso é feito, na maioria das vezes, por jovens, que optam por se dedicar a tarefas menos importantes e mais prazerosas(BARBOSA, 2021), ao invés de cumprir com as suas 
+> brigações.
+> Estima-se que 80% da população jovem e estudante do Brasil se enquadra como procrastinadora e 20% da população adulta brasileira também possui o mesmo diagnóstico. Com o 
+> tempo, caso não seja tratada, a procrastinação pode causar tanto problemas profissionais, como perda do emprego e perda da confiança em seus serviços, quanto problemas 
+> emocionais apontados pelo Centro de Valorização da Vida (CVV), como a frustração, além da sensação de não estar aproveitando devidamente o seu tempo e deixando em segundo 
+> plano suas tarefas realmente importantes.
 >
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Referências
+> BARBOSA, Suria. Como parar de procrastinar definitivamente: técnicas, ferramentas, aplicativos e livros. Na Prática.Org, 14 de abr. de 2021. Disponível em: 
+> <https://www.napratica.org.br/dicas-como-parar-de-procrastinar/>. Acesso em: 28 de set. de 2021.
+> Luiza. PROCRASTINAÇÃO PODE CAUSAR PROBLEMAS EMOCIONAIS. CVV - Centro de Valorização da Vida, Belém. Disponível em: 
+> < https://www.cvv.org.br/blog/procrastinacao-pode-causar-problemas-emocionais//>. Acesso em: 28 de set. de 2021.
 
 ## Objetivos
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> Nesse contexto, a melhor forma de acabar com a procrastinação entre a população jovem e estudante é a criação de uma rotina adequada às necessidades e características do 
+> indivíduo que busca sua melhora, estabelecendo metas e objetivos para serem cumpridos ao longo de um dado período de tempo.
+> Portanto, o objetivo geral deste trabalho é fornecer uma plataforma que, a partir da criação de uma agenda, ajude o usuário com a gestão de tempo das atividades da semana,
+> delimitando intervalos de descanso para evitar a sobrecarga.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Principais tópicos:
+> Fornecer uma agenda da semana com todas as atividades informadas.
+> Implementar intervalos de descanso entre as atividades informadas. 
+> Fornecer dicas para uma melhor execução de estudos e um dia mais produtivo.
+> Permitir uma flexibilidade da agenda com o ajuste do cronograma do dia ou da semana.
+> 
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
+> Ter concentração e foco tornou-se progressivamente uma tarefa mais difícil, durante a pandemia do coronavírus. Nesse sentido, o período prolongado de isolamento social e a 
+> sobrecarga de informações e notícias veiculadas pela imprensa tradicional e pelas mídias sociais desencadearam sentimentos como ansiedade e incerteza nos indivíduos, que em um 
+> mecanismo de autodefesa optam por adiar tarefas e exercer uma atividade paralela para obter uma sensação de tranquilidade e conforto temporário.
+> Por outro lado, o exercício das atividades de trabalho ou estudo remotamente, no mesmo local de descanso sem a delimitação adequada, também interfere na concentração e no
+> planejamento diário, tornando as pessoas mais vulneráveis à procrastinação (JOHNSON, 2021). Portanto, aplicações que melhorem a produtividade dos jovens são desejáveis.
 > 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+> Referências
+> JOHNSON, Nicole. A PROCRASTINAÇÃO AUMENTOU? A CULPA É DA PANDEMIA. National Geographic, 1 de abr. de 2021. Disponível em: 
+> <https://www.nationalgeographicbrasil.com/ciencia/2021/03/a-procrastinacao-aumentou-a-culpa-e-da-pandemia//>. Acesso em: 28 de set. de 2021.
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
+> Apesar de existirem ferramentas para aumentar a produtividade disponíveis no mercado, elas são majoritariamente direcionadas para o público corporativo e escassas e 
+> impopulares entre os estudantes. Portanto, esse trabalho é voltado para alunos com problemas de procrastinação e necessidade de criar uma rotina que equilibre as tarefas de 
+> estudo e o lazer, potencializando a aprendizagem sem comprometer o tempo livre.
 >
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
