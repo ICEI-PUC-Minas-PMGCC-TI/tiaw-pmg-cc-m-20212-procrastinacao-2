@@ -13,42 +13,28 @@ se desenvolver profissionalmente através de um mestrado fora do país,
 pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
 buscando uma agência que o ajude a encontrar universidades na Europa
 que aceitem alunos estrangeiros.
-
-
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+> 
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|`PERSONA`|`DESEJO`|`RAZÃO`|
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
+|BRUNA|Parar de perder tempo usando Whatsapp e Pinterest.|Ter mais tempo para se dedicar ao estudo e fazer exercícios.|
+|BRUNA|Estabelecer metas e compartimentar tarefas mais difíceis para concluí-las com mais facilidade.|Manter a saúde mental em equilíbrio e evitar ansiedade e sentimentos de culpa causados pela improdutividade.|
+|BRUNA|Desenvolver as habilidades de concentração e foco.|Conseguir fazer atividades sem adiá-las, uma vez que elas podem ser feitas em poucas horas (no máximo).|
+|JORGE|Aprimorar a organização e o planejamento das tarefas do dia.|Evitar o estresse causado pelo acúmulo de atividades atrasadas.|
+|JORGE|Reduzir o tempo gasto em atividades paralelas e aumentar o rendimento e a produtividade.|Criar bons hábitos para trilhar um caminho de sucesso para o futuro.|
+|JORGE|Ser recompensado ao terminar tarefas complexas e incentivado a não desistir ao não conseguir completá-las.|Se sentir realizado e bem consigo mesmo e evitar o desgaste emocional.|
+|ANA VITÓRIA|Redirecionar o tempo gasto no celular e em mídias digitais para o estudo.|Resolver mais exercícios para ser aprovada na faculdade quando terminar o Ensino Médio.|
+|ANA VITÓRIA|Administrar melhor o tempo para estudar somente durante as horas destinadas ao estudo.|Não desperdiçar o tempo livre ou com a família fazendo tarefas que já deveriam ter sido feitas.|
+|ANA VITÓRIA|Ser mais responsável e cumprir obrigações sem ser pressionada.|Executar trabalhos e tarefas com calma e antecedência, não “em cima da hora”.|
+|MATHEUS|Criar uma rotina que possa ser visualizada em forma de documento ou algo similar.|Evitar esquecer de fazer tarefas importantes e perder prazos de entrega.|
+|MATHEUS|Maximizar o aproveitamento do tempo disponível para fazer as tarefas.|Conciliar a realização das atividades do trabalho e do estudo da faculdade. |
+|MATHEUS|Limitar o tempo para a realização de tarefas da faculdade e do trabalho.|Não comprometer os momentos de lazer como festas e jogos de futebol com os amigos, por exemplo.|
 >
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+>
 
 ## Requisitos
 
@@ -58,34 +44,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve possibilitar a entrada das tarefas, das obrigações e do tempo disponível do usuário para realizá-las| ALTA | 
+|RF-002| O site deve montar uma programação de organização de tempo personalizada (rotina) para as necessidades exclusivas de cada usuário | ALTA |
+|RF-003| O site deve disponibilizar o download da rotina personalizada do usuario| MÉDIA |
+|RF-004| O site deve possuir um menu que possibilite o usuário flutuar entre as abas do mesmo   | MÉDIA |
+|RF-005| O site deve possuir contatos de psicólogos e profissionais da área, além do Centro de Valorização da Vida (CVV) | BAIXA |
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
+|RNF-001| Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). | ALTA | 
+|RNF-002| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-003| Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
+|RNF-004| Função de exportar a agenda criada por meio de arquivo PDF ou PNG |  ALTA | 
+|RNF-005| Possibilidade de vincular a agenda criada ao e-mail do usuário |  MÉDIA | 
 >
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+> 
 
 ## Restrições
 
@@ -93,13 +70,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a vigésima semana da matéria. |
+|02| O projeto poderá unicamente ser desenvolvido pelos integrantes do grupo.|
+>
