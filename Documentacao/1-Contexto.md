@@ -5,14 +5,9 @@
 >
 
 ## Problema
-> A procrastinação é um mal crescente que assola cada vez mais a sociedade e pode ser definida pela ação de postergar ou atrasar algo, como uma tarefa, compromisso ou atividade. 
-> Isso é feito, na maioria das vezes, por jovens, que optam por se dedicar a tarefas menos importantes e mais prazerosas(BARBOSA, 2021), ao invés de cumprir com as suas 
-> brigações.
-> 
-> Estima-se que 80% da população jovem e estudante do Brasil se enquadra como procrastinadora e 20% da população adulta brasileira também possui o mesmo diagnóstico. Com o 
-> tempo, caso não seja tratada, a procrastinação pode causar tanto problemas profissionais, como perda do emprego e perda da confiança em seus serviços, quanto problemas 
-> emocionais apontados pelo Centro de Valorização da Vida (CVV), como a frustração, além da sensação de não estar aproveitando devidamente o seu tempo e deixando em segundo 
-> plano suas tarefas realmente importantes.
+A procrastinação é um mal crescente que assola cada vez mais a sociedade e pode ser definida pela ação de postergar ou atrasar algo, como uma tarefa, compromisso ou atividade. Isso é feito, na maioria das vezes, por jovens, que optam por se dedicar a tarefas menos importantes e mais prazerosas(BARBOSA, 2021), ao invés de cumprir com as suas obrigações.
+
+Estima-se que 80% da população jovem e estudante do Brasil se enquadra como procrastinadora e 20% da população adulta brasileira também possui o mesmo diagnóstico. Com o tempo, caso não seja tratada, a procrastinação pode causar tanto problemas profissionais, como perda do emprego e perda da confiança em seus serviços, quanto problemas emocionais apontados pelo Centro de Valorização da Vida (CVV), como a frustração, além da sensação de não estar aproveitando devidamente o seu tempo e deixando em segundo plano suas tarefas realmente importantes.
 >
 > Referências
 > 
@@ -23,11 +18,9 @@
 > < https://www.cvv.org.br/blog/procrastinacao-pode-causar-problemas-emocionais//>. Acesso em: 28 de set. de 2021.
 
 ## Objetivos
-> Nesse contexto, a melhor forma de acabar com a procrastinação entre a população jovem e estudante é a criação de uma rotina adequada às necessidades e características do 
-> indivíduo que busca sua melhora, estabelecendo metas e objetivos para serem cumpridos ao longo de um dado período de tempo.
+Nesse contexto, a melhor forma de acabar com a procrastinação entre a população jovem e estudante é a criação de uma rotina adequada às necessidades e características do indivíduo que busca sua melhora, estabelecendo metas e objetivos para serem cumpridos ao longo de um dado período de tempo.
 > 
-> Portanto, o objetivo geral deste trabalho é fornecer uma plataforma que, a partir da criação de uma agenda, ajude o usuário com a gestão de tempo das atividades da semana,
-> delimitando intervalos de descanso para evitar a sobrecarga.
+Portanto, o objetivo geral deste trabalho é fornecer uma plataforma que, a partir da criação de uma agenda, ajude o usuário com a gestão de tempo das atividades da semana, delimitando intervalos de descanso para evitar a sobrecarga.
 > 
 > Principais tópicos:
 > 
@@ -42,11 +35,9 @@
 
 ## Justificativa
 
-> Ter concentração e foco tornou-se progressivamente uma tarefa mais difícil, durante a pandemia do coronavírus. Nesse sentido, o período prolongado de isolamento social e a 
-> sobrecarga de informações e notícias veiculadas pela imprensa tradicional e pelas mídias sociais desencadearam sentimentos como ansiedade e incerteza nos indivíduos, que em um 
-> mecanismo de autodefesa optam por adiar tarefas e exercer uma atividade paralela para obter uma sensação de tranquilidade e conforto temporário.
-> Por outro lado, o exercício das atividades de trabalho ou estudo remotamente, no mesmo local de descanso sem a delimitação adequada, também interfere na concentração e no
-> planejamento diário, tornando as pessoas mais vulneráveis à procrastinação (JOHNSON, 2021). Portanto, aplicações que melhorem a produtividade dos jovens são desejáveis.
+Ter concentração e foco tornou-se progressivamente uma tarefa mais difícil, durante a pandemia do coronavírus. Nesse sentido, o período prolongado de isolamento social e a sobrecarga de informações e notícias veiculadas pela imprensa tradicional e pelas mídias sociais desencadearam sentimentos como ansiedade e incerteza nos indivíduos, que em um mecanismo de autodefesa optam por adiar tarefas e exercer uma atividade paralela para obter uma sensação de tranquilidade e conforto temporário.
+>
+Por outro lado, o exercício das atividades de trabalho ou estudo remotamente, no mesmo local de descanso sem a delimitação adequada, também interfere na concentração e no planejamento diário, tornando as pessoas mais vulneráveis à procrastinação (JOHNSON, 2021). Portanto, aplicações que melhorem a produtividade dos jovens são desejáveis.
 > 
 > Referências
 > 
