@@ -29,8 +29,11 @@
 > Principais tópicos:
 > 
 > Fornecer uma agenda da semana com todas as atividades informadas.
+> 
 > Implementar intervalos de descanso entre as atividades informadas. 
+> 
 > Fornecer dicas para uma melhor execução de estudos e um dia mais produtivo.
+> 
 > Permitir uma flexibilidade da agenda com o ajuste do cronograma do dia ou da semana.
 > 
 
