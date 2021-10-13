@@ -8,6 +8,7 @@
 > A procrastinação é um mal crescente que assola cada vez mais a sociedade e pode ser definida pela ação de postergar ou atrasar algo, como uma tarefa, compromisso ou atividade. 
 > Isso é feito, na maioria das vezes, por jovens, que optam por se dedicar a tarefas menos importantes e mais prazerosas(BARBOSA, 2021), ao invés de cumprir com as suas 
 > brigações.
+> 
 > Estima-se que 80% da população jovem e estudante do Brasil se enquadra como procrastinadora e 20% da população adulta brasileira também possui o mesmo diagnóstico. Com o 
 > tempo, caso não seja tratada, a procrastinação pode causar tanto problemas profissionais, como perda do emprego e perda da confiança em seus serviços, quanto problemas 
 > emocionais apontados pelo Centro de Valorização da Vida (CVV), como a frustração, além da sensação de não estar aproveitando devidamente o seu tempo e deixando em segundo 
@@ -17,12 +18,14 @@
 > 
 > BARBOSA, Suria. Como parar de procrastinar definitivamente: técnicas, ferramentas, aplicativos e livros. Na Prática.Org, 14 de abr. de 2021. Disponível em: 
 > <https://www.napratica.org.br/dicas-como-parar-de-procrastinar/>. Acesso em: 28 de set. de 2021.
+> 
 > Luiza. PROCRASTINAÇÃO PODE CAUSAR PROBLEMAS EMOCIONAIS. CVV - Centro de Valorização da Vida, Belém. Disponível em: 
 > < https://www.cvv.org.br/blog/procrastinacao-pode-causar-problemas-emocionais//>. Acesso em: 28 de set. de 2021.
 
 ## Objetivos
 > Nesse contexto, a melhor forma de acabar com a procrastinação entre a população jovem e estudante é a criação de uma rotina adequada às necessidades e características do 
 > indivíduo que busca sua melhora, estabelecendo metas e objetivos para serem cumpridos ao longo de um dado período de tempo.
+> 
 > Portanto, o objetivo geral deste trabalho é fornecer uma plataforma que, a partir da criação de uma agenda, ajude o usuário com a gestão de tempo das atividades da semana,
 > delimitando intervalos de descanso para evitar a sobrecarga.
 > 
