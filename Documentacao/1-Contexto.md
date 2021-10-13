@@ -14,6 +14,7 @@
 > plano suas tarefas realmente importantes.
 >
 > Referências
+> 
 > BARBOSA, Suria. Como parar de procrastinar definitivamente: técnicas, ferramentas, aplicativos e livros. Na Prática.Org, 14 de abr. de 2021. Disponível em: 
 > <https://www.napratica.org.br/dicas-como-parar-de-procrastinar/>. Acesso em: 28 de set. de 2021.
 > Luiza. PROCRASTINAÇÃO PODE CAUSAR PROBLEMAS EMOCIONAIS. CVV - Centro de Valorização da Vida, Belém. Disponível em: 
@@ -26,6 +27,7 @@
 > delimitando intervalos de descanso para evitar a sobrecarga.
 > 
 > Principais tópicos:
+> 
 > Fornecer uma agenda da semana com todas as atividades informadas.
 > Implementar intervalos de descanso entre as atividades informadas. 
 > Fornecer dicas para uma melhor execução de estudos e um dia mais produtivo.
@@ -41,6 +43,7 @@
 > planejamento diário, tornando as pessoas mais vulneráveis à procrastinação (JOHNSON, 2021). Portanto, aplicações que melhorem a produtividade dos jovens são desejáveis.
 > 
 > Referências
+> 
 > JOHNSON, Nicole. A PROCRASTINAÇÃO AUMENTOU? A CULPA É DA PANDEMIA. National Geographic, 1 de abr. de 2021. Disponível em: 
 > <https://www.nationalgeographicbrasil.com/ciencia/2021/03/a-procrastinacao-aumentou-a-culpa-e-da-pandemia//>. Acesso em: 28 de set. de 2021.
 >
