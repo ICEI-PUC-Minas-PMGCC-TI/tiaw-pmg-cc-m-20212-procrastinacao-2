@@ -7,15 +7,15 @@
 > realizar a especificações do projeto
 
 ## Personas
+>
 ![Bruna](images/Persona1.jpg)
+>
 ![Jorge](images/Persona2.jpg)
+>
 ![Ana Vitória](images/Persona3.jpg)
+>
 ![Matheus](images/Persona4.jpg)
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+>
 > 
 
 ## Histórias de Usuários
