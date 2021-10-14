@@ -9,7 +9,7 @@ A procrastinação é um mal crescente que assola cada vez mais a sociedade e po
 
 Estima-se que 80% da população jovem e estudante do Brasil se enquadra como procrastinadora e 20% da população adulta brasileira também possui o mesmo diagnóstico. Com o tempo, caso não seja tratada, a procrastinação pode causar tanto problemas profissionais, como perda do emprego e perda da confiança em seus serviços, quanto problemas emocionais apontados pelo Centro de Valorização da Vida (CVV), como a frustração, além da sensação de não estar aproveitando devidamente o seu tempo e deixando em segundo plano suas tarefas realmente importantes.
 >
-> Referências
+> **REFERÊNCIAS**:
 > 
 > BARBOSA, Suria. Como parar de procrastinar definitivamente: técnicas, ferramentas, aplicativos e livros. Na Prática.Org, 14 de abr. de 2021. Disponível em: 
 > <https://www.napratica.org.br/dicas-como-parar-de-procrastinar/>. Acesso em: 28 de set. de 2021.
@@ -39,7 +39,7 @@ Ter concentração e foco tornou-se progressivamente uma tarefa mais difícil, d
 >
 Por outro lado, o exercício das atividades de trabalho ou estudo remotamente, no mesmo local de descanso sem a delimitação adequada, também interfere na concentração e no planejamento diário, tornando as pessoas mais vulneráveis à procrastinação (JOHNSON, 2021). Portanto, aplicações que melhorem a produtividade dos jovens são desejáveis.
 > 
-> Referências
+> **REFERÊNCIAS**:
 > 
 > JOHNSON, Nicole. A PROCRASTINAÇÃO AUMENTOU? A CULPA É DA PANDEMIA. National Geographic, 1 de abr. de 2021. Disponível em: 
 > <https://www.nationalgeographicbrasil.com/ciencia/2021/03/a-procrastinacao-aumentou-a-culpa-e-da-pandemia//>. Acesso em: 28 de set. de 2021.
