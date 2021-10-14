@@ -31,6 +31,6 @@
 > páginas. Um wireframe web é uma ilustração semelhante do
 > layout de elementos fundamentais na interface.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+
+> - [PROTÓTIPO INTERATIVO](https://www.figma.com/file/0KGLjirM4Nm6uZ71fCyf8S/Untitled?node-id=0%3A1)
+
