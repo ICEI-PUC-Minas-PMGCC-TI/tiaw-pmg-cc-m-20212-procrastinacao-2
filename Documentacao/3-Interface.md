@@ -32,5 +32,5 @@
 > layout de elementos fundamentais na interface.
 > 
 
-> - [PROTÓTIPO INTERATIVO](https://www.figma.com/file/0KGLjirM4Nm6uZ71fCyf8S/Untitled?node-id=0%3A1)
+- [PROTÓTIPO INTERATIVO](https://www.figma.com/file/0KGLjirM4Nm6uZ71fCyf8S/Untitled?node-id=0%3A1)
 
