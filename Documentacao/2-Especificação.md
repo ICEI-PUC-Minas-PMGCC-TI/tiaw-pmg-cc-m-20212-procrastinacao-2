@@ -40,11 +40,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O site deve possibilitar a entrada das tarefas, das obrigações e do tempo disponível do usuário para realizá-las| ALTA | 
-|RF-02| O site deve montar uma programação de organização de tempo personalizada (rotina) para as necessidades exclusivas de cada usuário | ALTA |
-|RF-03| O site deve disponibilizar o download da rotina personalizada do usuario| MÉDIA |
-|RF-04| O site deve possuir um menu que possibilite o usuário flutuar entre as abas do mesmo   | MÉDIA |
-|RF-05| O site deve possuir contatos de psicólogos e profissionais da área, além do Centro de Valorização da Vida (CVV) | BAIXA |
+|RF-01| O site deve possibilitar a entrada das tarefas, das obrigações e do horário do usuário disponível para realizá-las.| ALTA | 
+|RF-02| Apartir do cadastro, o site deve montar uma agenda personalizada, organizando o tempo segundo as necessidades exclusivas de cada usuário.| ALTA |
+|RF-03| O site deve disponibilizar uma apresentação da agenda.| MÉDIA |
+|RF-04| O site deve disponibilizar o download da rotina personalizada do usuario.| MÉDIA |
+|RF-05| O site deve possuir um menu que possibilite o usuário flutuar entre as abas do mesmo. MÉDIA |
+|RF-06| O site deve possuir contatos de psicólogos e profissionais da área, além do Centro de Valorização da Vida (CVV).| BAIXA |
 
 
 
@@ -52,11 +53,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01| Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). | ALTA | 
-|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
-|RNF-03| Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
-|RNF-04| Função de exportar a agenda criada por meio de arquivo PDF ou PNG |  ALTA | 
-|RNF-05| Possibilidade de vincular a agenda criada ao e-mail do usuário |  MÉDIA | 
+|RNF-01| Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).| ALTA | 
+|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada.|  ALTA | 
+|RNF-03| Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|  ALTA | 
+|RNF-04| Função de exportar a agenda criada por meio de arquivo PDF ou PNG.|  ALTA | 
+|RNF-05| Possibilidade de vincular a agenda criada ao e-mail do usuário.|  MÉDIA | 
 >
 > 
 
@@ -66,6 +67,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a vigésima semana da matéria. |
-|02| O projeto poderá unicamente ser desenvolvido pelos integrantes do grupo.|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a vigésima semana da matéria. |
+|RE-02| O projeto poderá unicamente ser desenvolvido pelos integrantes do grupo.|
+|RE-03| O projeto deve ser limitado ao desenvolvimento front-end.|
 >
