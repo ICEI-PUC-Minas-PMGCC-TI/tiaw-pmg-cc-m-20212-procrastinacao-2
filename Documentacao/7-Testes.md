@@ -33,14 +33,20 @@
 > organização do usuário. 
 >
 >
-> No entanto, o registro da quantidade de tarefas cadastradas que foram feitas e 
+> No entanto, a impossibilidade de alterar/apagar eventos prejudica a experiência
+> do usuário, uma vez que, se uma tarefa for reagendada, não será possível alterar a 
+> sua data nem ocultar atividades da agenda.
+>
+>
+> Ademais, o registro da quantidade de tarefas cadastradas que foram feitas e 
 > daquelas que não foram concluídas construindo um histórico contribuiria para a 
 > materialização da evolução do usuário durante o período de uso da ferramenta.
-
 >
-> Além disso, a disponibilzação de recompensas a usuários que tenham alta taxa de
+>
+> Por último, a disponibilzação de recompensas a usuários que tenham alta taxa de
 > conclusão de atividades seria uma maneira de motivá-los, potencializando ainda 
 > mais a produtividade deles.
 
+>
 > Portanto, essas melhorias devem ser exploradas no futuro. 
 > 
