@@ -6,9 +6,11 @@
 A equipe está dividida da seguinte maneira:
 *	Product Owner: Rommel Vieira Carneiro
 *	Equipe de desenvolvimento:
-1. João Pedro Lindenberg Pimenta (Desenvolvedor Front End)
-2. João Vitor Lima de Melo (Desenvolvedor Front End)
-3. Luis Fellyp Madeira Euzebio E Lacerda (Desenvolvedor Front End)
+1. Igor Franco Côrrea
+2. João Victor Horta Fontes (Desenvolvedor Front End)
+3. João Pedro Lindenberg Pimenta (Desenvolvedor Front End)
+4. João Vitor Lima de Melo (Desenvolvedor Front End)
+5. Luis Fellyp Madeira Euzebio E Lacerda (Desenvolvedor Front End)
 
 
 ## Processo
