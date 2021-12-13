@@ -42,13 +42,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-01| O site deve possibilitar a entrada das tarefas, das obrigações e do horário do usuário disponível para realizá-las.| ALTA | 
 |RF-02| Apartir do cadastro, o site deve montar uma agenda personalizada, organizando o tempo segundo as necessidades exclusivas de cada usuário.| ALTA |
-|RF-03| O site deve disponibilizar uma apresentação da agenda.| MÉDIA |
+|RF-03| O site deve disponibilizar uma apresentação que permita visualizar a agenda.| ALTA |
 |RF-04| O site deve disponibilizar o download da rotina personalizada do usuario.| MÉDIA |
 |RF-05| O site deve possuir um menu que possibilite o usuário flutuar entre as abas do mesmo.| MÉDIA |
-|RF-07| Apresentação de informações úteis sobre a procrastinação como as causas e como evitá-la.| MÉDIA |
-|RF-08| O site deve possibilitar a associação da agenda com o calendário da Google.| MÉDIA |
-|RF-09| O site deve possuir contatos de psicólogos e profissionais da área, além do Centro de Valorização da Vida (CVV).| BAIXA |
-|RF-10| Informar o usuário sobre os efeitos decorrentes da procrastinação, como doenças e síndromes.| BAIXA |
+|RF-06| Apresentação de informações úteis sobre a procrastinação como as causas e como evitá-la.| MÉDIA |
+|RF-07| O site deve possibilitar a associação da agenda com o calendário da Google.| MÉDIA |
+|RF-08| O site deve possuir contatos de psicólogos e profissionais da área, além do Centro de Valorização da Vida (CVV).| BAIXA |
+|RF-09| Informar o usuário sobre os efeitos decorrentes da procrastinação, como doenças e síndromes.| BAIXA |
+|RF-10| Página dedicada às informações dos desenvolvedores.| BAIXA |
+
 
 
 
