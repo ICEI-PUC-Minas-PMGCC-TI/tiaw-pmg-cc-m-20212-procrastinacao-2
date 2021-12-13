@@ -5,7 +5,7 @@ O objetivo do projeto Up é ajudar o usuário, que enfrenta problemas com a proc
 
 ## Alunos integrantes da equipe
 
-* Igor Franco Côrrea
+* Igor Franco Corrêa
 * João Pedro Lindenberg Pimenta
 * João Victor Horta Fontes
 * João Vitor Lima de Melo
