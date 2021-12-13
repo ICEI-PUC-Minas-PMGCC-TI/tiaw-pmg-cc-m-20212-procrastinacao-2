@@ -38,5 +38,5 @@ Para organização e distribuição das tarefas do projeto, a equipe utilizou o 
 |Plataforma de Trabalho Colaborativo|Miro|https://miro.com/app/board/o9J_ly2NH0g=/|
 |Projeto de Interface e Wireframes|Figma|https://www.figma.com/proto/0KGLjirM4Nm6uZ71fCyf8S/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2|
 |Gerenciamento do Projeto|Trello|https://trello.com/b/ELKuTYSF/tiaw-procrastina%C3%A7%C3%A3o|
-|IDE e Hospedagem|Repl.it|https://replit.com/@joaovlmelo/ultimaVersao#index.html|
+|IDE e Hospedagem|Repl.it|https://replit.com/@joaovlmelo/up#index.html|
 
