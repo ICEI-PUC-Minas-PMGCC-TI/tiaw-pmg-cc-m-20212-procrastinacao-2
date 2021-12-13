@@ -47,7 +47,7 @@ Por outro lado, o exercício das atividades de trabalho ou estudo remotamente, n
 
 ## Público-Alvo
 
-> Apesar de existirem ferramentas para aumentar a produtividade disponíveis no mercado, elas são majoritariamente direcionadas para o público corporativo e escassas e 
-> impopulares entre os estudantes. Portanto, esse trabalho é voltado para alunos com problemas de procrastinação e necessidade de criar uma rotina que equilibre as tarefas de 
-> estudo e o lazer, potencializando a aprendizagem sem comprometer o tempo livre.
+> Apesar de existirem ferramentas para aumentar a produtividade disponíveis no mercado, como o Slack, elas são majoritariamente direcionadas para o público corporativo. Nesse
+> sentido, tais ferramentas são escassas, impopulares e desconhecidas entre os estudantes. Portanto, tendo em vista esse vácuo mercadológico, o projeto busca suprir a demanda
+> de um nicho pouco explorado. Por tanto, esse trabalho é voltado para alunos com problemas de procrastinação e necessidade de criar uma rotina que equilibre as tarefas de estudo e o lazer, potencializando a aprendizagem sem comprometer o tempo livre.
 >
