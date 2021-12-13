@@ -1,19 +1,21 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`UP - PROCRASTINAÇÃO 2`  
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+`Ciência da Computação`
 
-`SEMESTRE`
+`1º Semestre`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Igor Franco Corrêa
+- João Pedro Lindenberg Pimenta
+- João Victor Horta Fontes
+- João Vitor Lima de Melo
+- Luis Fellyp Madeira Euzebio e Lacerda
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
 
 # Estrutura do Documento
 
