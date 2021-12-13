@@ -5,13 +5,17 @@ O objetivo do projeto Up é ajudar o usuário, que enfrenta problemas com a proc
 
 ## Alunos integrantes da equipe
 
-* João pedro Lindenberg Pimenta
+* Igor Horta Fontes
+* João Pedro Lindenberg Pimenta
+* João Victor Horta Fontes
 * João Vitor Lima de Melo
 * Luis Fellyp Madeira Euzebio E Lacerda
 
 ## Professores responsáveis
 
-* Rommel Carneiro
+* Fátima de Lima Procópio Duarte 
+* João Carlos Oliveira Caetano
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
