@@ -31,11 +31,13 @@
 
 > Com as funcionalidades disponíveis, a plataforma tem a capacidade de auxiliar a 
 > organização do usuário. 
-
+>
+>
 > No entanto, o registro da quantidade de tarefas cadastradas que foram feitas e 
 > daquelas que não foram concluídas construindo um histórico contribuiria para a 
 > materialização da evolução do usuário durante o período de uso da ferramenta.
 
+>
 > Além disso, a disponibilzação de recompensas a usuários que tenham alta taxa de
 > conclusão de atividades seria uma maneira de motivá-los, potencializando ainda 
 > mais a produtividade deles.
