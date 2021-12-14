@@ -39,9 +39,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|-------|----------------------------------------|----|
 |RF-01| O site deve possibilitar a entrada das tarefas, das obrigações e do horário do usuário disponível para realizá-las.| ALTA | 
-|RF-02| Apartir do cadastro, o site deve montar uma agenda personalizada, organizando o tempo segundo as necessidades exclusivas de cada usuário.| ALTA |
+|RF-02| A partir do cadastro, o site deve montar uma agenda personalizada, organizando o tempo segundo as necessidades exclusivas de cada usuário.| ALTA |
 |RF-03| O site deve disponibilizar uma apresentação que permita visualizar a agenda.| ALTA |
 |RF-04| O site deve disponibilizar o download da rotina personalizada do usuario.| MÉDIA |
 |RF-05| O site deve possuir um menu que possibilite o usuário flutuar entre as abas do mesmo.| MÉDIA |
