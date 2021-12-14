@@ -12,11 +12,10 @@
 >
 > Recursos a serem avaliados: cadastro de usuários, login, cadastro de tarefas e apresentação da agenda.
 > 
-|'*CASO DE TESTE*'| CT-01 |Criação de Novo Usuário |
-|--------------------|---------------------------------------------|-------------------------------|
-|*REQUISITOS ASSOCIADOS*|RNF-01 Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)
-  RNF-03 Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|
-> Enumere quais cenários de testes foram selecionados para teste. Neste
+>
+>![image](https://user-images.githubusercontent.com/91549016/145911661-230a915f-5122-4699-bac3-398781e9b5fa.png)
+>
+>  Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
 > de usuários que foi escolhido para participar do teste e as
 > ferramentas utilizadas.
