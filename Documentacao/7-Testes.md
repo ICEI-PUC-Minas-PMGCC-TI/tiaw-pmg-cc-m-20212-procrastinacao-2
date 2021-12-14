@@ -12,8 +12,8 @@
 >
 > Recursos a serem avaliados: cadastro de usuários, login, cadastro de tarefas e apresentação da agenda.
 > 
-|*CASO DE TESTE*| CT-01 |Criação de Novo Usuário |
-|--------------------|-----------------------------------------------------------------------------|
+|'*CASO DE TESTE*'| CT-01 |Criação de Novo Usuário |
+|--------------------|---------------------------------------------|-------------------------------|
 |*REQUISITOS ASSOCIADOS*|RNF-01 Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)
   RNF-03 Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|
 > Enumere quais cenários de testes foram selecionados para teste. Neste
