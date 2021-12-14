@@ -6,11 +6,11 @@
 A equipe está dividida da seguinte maneira:
 *	Product Owner: Rommel Vieira Carneiro
 *	Equipe de desenvolvimento:
-1. Igor Franco Côrrea (Desenvolvedor Front End)
-2. João Pedro Lindenberg Pimenta (Desenvolvedor Front End)
-3. João Victor Horta Fontes (Desenvolvedor Front End)
-4. João Vitor Lima de Melo (Desenvolvedor Front End)
-5. Luis Fellyp Madeira Euzebio e Lacerda (Desenvolvedor Front End)
+1. Igor Franco Côrrea (Desenvolvedor Front End): Desenvolvedor do template do site e responsável pela elaboração do Quiz.
+2. João Pedro Lindenberg Pimenta (Desenvolvedor Front End): Responsável pelo desenvolvimento do cadastro da agenda e pelo botão de compartilhamento.
+3. João Victor Horta Fontes (Desenvolvedor Front End): Encarregado pelo cadastro de novas contas e pela edição do perfil do usuário.
+4. João Vitor Lima de Melo (Desenvolvedor Front End): Encarregado pela criação do login e pela apresentação da agenda.
+5. Luis Fellyp Madeira Euzebio e Lacerda (Desenvolvedor Front End): Cadastro e apresentação do contato de psicólogos.
 
 
 ## Processo
