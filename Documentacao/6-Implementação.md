@@ -25,12 +25,21 @@
 
 ![image](https://user-images.githubusercontent.com/91549016/145923414-fab0343f-c469-42f2-a403-b366812476d4.png)
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a cima ilustra a o fluxo do usuário da nossa solução. Assim
-que o usuário acessa o site, ele é presentado a tela de login. Caso não haja um cadastro no site ainda, ele pode criar uma nova conta. Caso haja conta cadastrada, ao preencher 
-os campos com informações válidas, ele será redirecionado para a página principal da plataforma, de onde é possível acessar todas as outras páginas que também têm acesso livre 
-entre si em razão do menu.
+A imagem acima ilustra a o fluxo do usuário da nossa solução. Assim
+que o usuário acessa o site, ele é presentado a tela de login. Caso não haja um cadastro no site ainda, ele pode criar uma nova conta que terá as informações de acesso
+armazenadas no local storage. Caso haja conta cadastrada, ao preencher os campos com informações válidas, ele será redirecionado para a página principal da plataforma, 
+de onde é possível acessar todas as outras páginas que também têm acesso livre entre si em razão do menu.
+
+
+Caso ele escolha a opção Agenda, ele será redirecionado para uma página em que ao fazer o cadastro de tarefas, elas são armazenadas no local storage e há o registro desses 
+eventos em uma agenda semanal. E ao final da página há a opção de preencher um quiz para auxiliar os desenvolvedores da plataforma a melhorar o site.
+
+
+Na página de contatos de psicólogos é possível cadastrar o contato do seu psicólogo que é armazenado no local storage e é apresentado formando uma agenda.
+
+
+Na página de edição de perfil de usuário é possível realizar modificações no perfil, alterando o local storage.
+
 
 
