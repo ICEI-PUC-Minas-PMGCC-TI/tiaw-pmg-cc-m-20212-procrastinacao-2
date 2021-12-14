@@ -3,36 +3,30 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 >
->
+> Perfil dos 5 usuários selecionados para realizar o plano de testes: alunos dos primeiros semestres da faculdade de idade entre 18 e 19 anos.
 > Recursos a serem avaliados: cadastro de usuários, login, cadastro de tarefas e apresentação da agenda.
 > 
 >
->![image](https://user-images.githubusercontent.com/91549016/145911661-230a915f-5122-4699-bac3-398781e9b5fa.png)
+> ![image](https://user-images.githubusercontent.com/91549016/145913627-2dbe3aa2-1c81-4809-99a8-10ced18a7ceb.png)
+> Feedback dos usuários participantes: a funcionalidade não apresenta erros.
+> 
+> 
+> ![image](https://user-images.githubusercontent.com/91549016/145913657-dfb41771-379a-42e9-a19c-619305bb222c.png)
+> Feedback dos usuários participantes: a funcionalidade não apresenta erros.
+> 
+> 
+> ![image](https://user-images.githubusercontent.com/91549016/145913697-b99c6ef1-04cf-4660-8eec-203f9f26331e.png)
+> Feedback dos usuários participantes: é possível cadastrar tarefas sem declarar o seu horário, o seu nome e até mesmo sem preencher nenhum dos campos.
+> 
+> 
+> ![image](https://user-images.githubusercontent.com/91549016/145913736-cbcd84d9-f75e-44ec-89d6-82afa54521cc.png)
+> Feedback dos usuários participantes: só é possível visualizar na agenda as tarefas cadastradas para um período de 7 dias e não é possível alterá-las.
 >
->  Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
+>
+>
 ## Avaliação
 
 > Com as funcionalidades disponíveis, a plataforma tem a capacidade de auxiliar a 
@@ -41,7 +35,10 @@
 >
 > No entanto, a impossibilidade de alterar/apagar eventos prejudica a experiência
 > do uso do site, uma vez que, se uma tarefa for reagendada, não será possível alterar a 
-> sua data nem ocultar atividades da agenda.
+> sua data nem ocultar atividades da agenda. 
+> 
+> 
+> Além disso, a visualização de tarefas cadastradas para um período de apenas 7 dias dificulta o planejamento à longo prazo.
 >
 >
 > Ademais, o registro da quantidade de tarefas cadastradas que foram feitas e 
