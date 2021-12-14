@@ -8,6 +8,10 @@
 > sendo satisfeitos.
 
 ## Plano de Testes
+|`PERSONA`|`DESEJO`|`RAZÃO`|
+|--------------------|------------------------------------|----------------------------------------|
+|BRUNA|Parar de perder tempo usando Whatsapp e Pinterest.|Ter mais tempo para se dedicar ao estudo e fazer exercícios.|
+
 >
 >
 > Recursos a serem avaliados: cadastro de usuários, login, cadastro de tarefas e apresentação da agenda.
