@@ -42,4 +42,7 @@ Na página de contatos de psicólogos é possível cadastrar o contato do seu ps
 Na página de edição de perfil de usuário é possível realizar modificações no perfil, alterando o local storage.
 
 
+Vale ressaltar que todas as páginas conectadas pelo menu possuem um botão de compartilhamento do site em redes sociais.
+
+
 
