@@ -8,14 +8,11 @@
 > sendo satisfeitos.
 
 ## Plano de Testes
-|`CASO DE TESTE`|`CT-01 Criação de Novo Usuário`|
-|--------------------|------------------------------------|----------------------------------------|
-|BRUNA|Parar de perder tempo usando Whatsapp e Pinterest.|Ter mais tempo para se dedicar ao estudo e fazer exercícios.|
-
 >
 >
 > Recursos a serem avaliados: cadastro de usuários, login, cadastro de tarefas e apresentação da agenda.
-|*CASO DE TESTE*| CT-01 Criação de Novo Usuário |
+> 
+|*CASO DE TESTE*| CT-01 |Criação de Novo Usuário |
 |--------------------|-----------------------------------------------------------------------------|
 |*REQUISITOS ASSOCIADOS*|RNF-01 Publicação do site em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)
   RNF-03 Compatibilidade com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|
