@@ -8,7 +8,7 @@
 > sendo satisfeitos.
 
 ## Plano de Testes
-|`PERSONA`|`DESEJO`|`RAZÃO`|
+|`CASO DE TESTE`|`CT-01 Criação de Novo Usuário`|
 |--------------------|------------------------------------|----------------------------------------|
 |BRUNA|Parar de perder tempo usando Whatsapp e Pinterest.|Ter mais tempo para se dedicar ao estudo e fazer exercícios.|
 
